@@ -1,0 +1,130 @@
+body{
+    color: rgb(255, 255, 255);
+    margin: 0px;
+    padding: 0px;
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+.menu-left img{
+    margin-right: 23px;
+}
+
+.menu-left{
+    margin-right: 239px;
+    font-size: 32px;
+}
+
+.menu-center a{
+    margin-right: 40px;
+    font-size: 32px;
+}
+
+.menu-center{
+    margin-right: 336px;
+}
+
+.menu-right a{
+    background-color: rgb(33, 106, 20);
+    color: rgb(0, 0, 0);
+    padding: 6px 30px;
+    border-radius: 12px;
+    font-size: 24px;
+}
+
+.main-left{
+    text-align: center;
+}
+
+.main-left h3{
+    font-size: 32px;
+}
+
+.main-left p{
+    font-size: 32px;
+}
+.main-left a{
+    font-size: 32px;
+    background-color: #006A44;
+    color: White;
+    padding: 6px 30px;
+    border-radius: 60px;
+}
+
+.main-down img{
+    margin-top: 242px;
+    margin-left: 143px;
+}
+
+.gallery{
+    margin: 318px 97px;
+}
+
+.gallery img{
+    margin: 17px 26px;
+}
+
+.buy{
+    margin: 85px 80px;
+}
+.buy-left{
+    margin-right: 144px;
+}
+
+.non-flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+input{
+    padding: 14px 0px 14px 342px;
+    border-radius: 200px;
+    background-color: #FFE148;
+    font-size: 38px;
+    color: white;
+    margin-top: 79px;
+}
+
+.buy-right h2{
+    color:rgb(8, 110, 21) ;
+    font-size: 75px;
+    
+}
+.buy-right p{
+    color: rgb(205, 205, 5);
+    font-size: 30px;
+}
+
+.buy-right a{
+    font-size: 20px;
+    background-color: #ca0c0c;
+    color: White;
+    padding: 3px 15px;
+    border-radius: 30px;
+}
+
+body{
+    background-color: rgb(0, 0, 0);
+}
+.menu{
+    background-color: white;
+    color: black;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.menu a{
+    color: black;
+}
+
+
